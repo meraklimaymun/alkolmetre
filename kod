@@ -30,8 +30,8 @@
 **                         - Bu proje sadece öğrenme amaçlıdır.                          **
 **                 - 18 yaşının altında iseniz çevrenizde bira içen bir                  **
 **                        yetişkinin sensöre üflemesini isteyebilirsiniz.                **
-**                                                                                       **
-**                                                                                       **
+**   Not: Bu kodda 5110 Graph kütüphanesi kullanılmıştır. Şu adresten indirmeniz ve      **
+**   yüklemeniz gerekmektedir: http://www.rinkydinkelectronics.com/library.php?id=48     **
 *******************************************************************************************
 */
 
